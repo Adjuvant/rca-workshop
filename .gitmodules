@@ -1,3 +1,6 @@
 [submodule "mobile-vr"]
 	path = mobile-vr
 	url = /Users/tom/mobile-vr
+[submodule "introduction-to-unity"]
+	path = introduction-to-unity
+	url = /Users/tom/introduction-to-unity
