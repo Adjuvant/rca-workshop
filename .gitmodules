@@ -1,6 +1,6 @@
 [submodule "mobile-vr"]
 	path = mobile-vr
-	url = /Users/tom/mobile-vr
+url=git@github.com:Adjuvant/mobile-vr.git
 [submodule "introduction-to-unity"]
 	path = introduction-to-unity
-	url = /Users/tom/introduction-to-unity
+url=git@github.com:Adjuvant/introduction-to-unity.git
