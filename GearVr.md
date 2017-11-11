@@ -33,3 +33,10 @@ Assuming that your Android device is already setup with everything needed to run
 + Open the app
 + Press ctrl+B (or File -> Build and run)
 + Disconnect the device from your computer and connect it back to the headset
+
+# Links
+ 
++ Oculus Unity Android Dev - https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-adb/
++ Mobile Dev prep - https://developer.oculus.com/documentation/unity/latest/concepts/unity-mobileprep/
++ Using adb - https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-adb/
+
