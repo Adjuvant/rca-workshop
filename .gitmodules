@@ -4,3 +4,6 @@ url=git@github.com:Adjuvant/mobile-vr.git
 [submodule "introduction-to-unity"]
 	path = introduction-to-unity
 url=git@github.com:Adjuvant/introduction-to-unity.git
+[submodule "vive-examples"]
+	path = vive-examples
+	url = git@github.com:Adjuvant/vive-examples.git
